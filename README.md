@@ -132,3 +132,14 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
 
 Els casos de *Machine Hallucinations* (Refik Anadol) i *AI Dungeon* exemplifiquen dos models complementaris d’hibridació multimèdia basats en la intel·ligència artificial: el primer transforma dades massives en experiència audiovisual immersiva dins l’espai expositiu, mentre que el segon converteix la IA en agent narratiu interactiu dins l’àmbit del videojoc i la literatura digital. Ambdós projectes qüestionen els límits tradicionals entre autor, eina i obra, i evidencien com la tecnologia esdevé un element actiu en la construcció de nous llenguatges artístics i narratius.
 
+## Bibliografia
+
+Adell Español, F. (2024). *Fonaments i evolució de la multimèdia* (PID_00297587; 1a ed.). Universitat Oberta de Catalunya.
+
+Gea, M. (2022). Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto. A J. Alberich & D. Sánchez-Mesa (Eds.), *Transmedialización y crowdsourcing en la cultura mediática contemporánea* (pp. 35–57). Editorial Universidad de Granada. Retrieved December 18, 2025, from https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing
+
+Manovich, L. (2001). *The language of new media*. MIT Press.
+
+Manovich, L. (2013). *Software takes command*. Bloomsbury Academic.
+
+McMillan, R. (2012). Lord of the files: How GitHub tamed free software (and more).
