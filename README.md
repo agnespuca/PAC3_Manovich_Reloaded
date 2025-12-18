@@ -67,16 +67,16 @@ Finalment, AI Dungeon representa un nou format de publicació i entreteniment qu
 #### Cas 2 · AI Dungeon – *Narrativa generativa interactiva* (2019 – present)
 
 - AI Dungeon – Official Trailer / Overview  
-  https://www.youtube.com/watch?v=6QdY9wzA1qE
+https://www.youtube.com/watch?v=wUrwTYjFEmw
 
 - How AI Dungeon Works  
-  https://www.youtube.com/watch?v=Vn8phH1X7aI
+  https://www.youtube.com/watch?v=uNT0MTYW1MI
 
-- AI Dungeon Gameplay Example  
-  https://www.youtube.com/watch?v=KxqF9x8wQpY
+- Absolute Beginner’s Guide To AI Dungeon  
+  https://www.youtube.com/watch?v=J0nxtUYsX7U
 
 - AI Dungeon and the Future of Interactive Storytelling  
-  https://www.youtube.com/watch?v=YwZ0ZpQkY6I
+  https://www.youtube.com/watch?v=YwZ0ZpQkY6I](https://www.youtube.com/watch?v=UrBnqHa-Khg
 
 ---
 
