@@ -47,7 +47,7 @@ Finalment, AI Dungeon representa un nou format de publicació i entreteniment qu
 
 ## Recursos multimèdia
 
-### 🎥 Vídeos explicatius dels projectes
+### Vídeos explicatius dels projectes
 
 #### Cas 1 · Refik Anadol – *Machine Hallucinations* (2019)
 
@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
   https://www.youtube.com/watch?v=UrBnqHa-Khg
 ---
 
-### 🖼️ Galeries d’imatges d’art digital
+### Galeries d’imatges d’art digital
 
 #### Cas 1 · Refik Anadol
 
@@ -106,7 +106,7 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
 
 ---
 
-### 🕹️ Demos interactives i plataformes de joc
+### Demos interactives i plataformes de joc
 
 #### Cas 1 · Art generatiu i entorns digitals
 
