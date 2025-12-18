@@ -76,8 +76,7 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
   https://www.youtube.com/watch?v=J0nxtUYsX7U
 
 - AI Dungeon and the Future of Interactive Storytelling  
-  https://www.youtube.com/watch?v=YwZ0ZpQkY6I](https://www.youtube.com/watch?v=UrBnqHa-Khg
-
+  https://www.youtube.com/watch?v=UrBnqHa-Khg
 ---
 
 ### 🖼️ Galeries d’imatges d’art digital
