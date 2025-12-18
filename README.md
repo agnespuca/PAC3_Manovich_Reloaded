@@ -130,7 +130,5 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
 
 ---
 
-### Tancament
-
 Els casos de *Machine Hallucinations* (Refik Anadol) i *AI Dungeon* exemplifiquen dos models complementaris d’hibridació multimèdia basats en la intel·ligència artificial: el primer transforma dades massives en experiència audiovisual immersiva dins l’espai expositiu, mentre que el segon converteix la IA en agent narratiu interactiu dins l’àmbit del videojoc i la literatura digital. Ambdós projectes qüestionen els límits tradicionals entre autor, eina i obra, i evidencien com la tecnologia esdevé un element actiu en la construcció de nous llenguatges artístics i narratius.
 
