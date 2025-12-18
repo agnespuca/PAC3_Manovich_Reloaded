@@ -9,7 +9,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 - Assignatura> [cultura digital]
 
 ## Introducció
-En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari en la cultura digital que no apareixen en els llibres de Lev Manovich ("The Language of New Media", 2001 i "Software Takes Command", 2013). La selecció dels casos parteix de la premissa que el programari no només és eina de producció, sinó que determina la forma de la creació cultural i artística. Els exemples escollits combinen tecnologia, interactivitat i participació col·laborativa, incorporant principis de crowdsourcing i cultura oberta.
+En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari en la cultura digital que no apareixen en el llibre de Lev Manovich ("Software Takes Command", 2013). La selecció dels casos parteix de la premissa que el programari és eina de producció que determina la forma de la creació cultural i artística. Els exemples escollits combinen tecnologia, interactivitat i participació col·laborativa, incorporant principis de crowdsourcing i cultura oberta.
 
 ## Cas 1: Refik Anadol – *Machine Hallucinations* (2019)
 - **Àmbit:** Art digital / Instal·lació multimèdia  
@@ -18,13 +18,13 @@ En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari e
   - [Vídeo explicatiu de *Machine Hallucinations*](https://youtu.be/x1EVhNM-uf4?si=AYFxVaT7Saovp-4j)
 
 ### Descripció analítica
-*Machine Hallucinations* és un projecte d’art digital en què Refik Anadol utilitza algoritmes d’intel·ligència artificial per processar milions d’imatges d’arxius públics i crear visualitzacions immersives. L’obra exemplifica clarament la **hibridació de programari**, ja que la creació artística no depèn només de la intervenció manual de l’artista, sinó de l’aplicació de models de machine learning que generen contingut visual original a partir de dades massives.  
+*Machine Hallucinations* és un projecte d’art digital en què Refik Anadol utilitza algoritmes d’intel·ligència artificial per processar milions d’imatges d’arxius públics i crear visualitzacions immersives. L’obra és un clar exemple de **hibridació de programari**, ja que la creació artística depèn de la intervenció manual de l’artista, i de l’aplicació de models de machine learning que generen contingut visual original a partir de dades massives.  
 
 Segons Manovich, el software actua com a medi i agent de transformació cultural; Anadol porta aquest concepte a un nou nivell: el programari és **protagonista creatiu**, mentre que l’artista supervisa, selecciona i configura els paràmetres. Això reflecteix la transició cap a un entorn de **“programmed media”**, on les imatges ja no són codificades manualment, sinó produïdes de manera algorítmica.  
 
 A més, moltes de les dades utilitzades provenen d’arxius oberts i comunitats col·laboratives, integrant així un aspecte de **crowdsourcing i cultura oberta**, ja que els usuaris poden contribuir amb contingut que alimenta les visualitzacions generatives. Aquest fenomen és una extensió del concepte de Manovich sobre bases de dades i interfícies, adaptat a l’era de l’IA i del big data.
 
-L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectador no només contempla les imatges, sinó que hi està envoltat, transformant la percepció tradicional de l’art visual i generant una experiència sensorial basada en programari.
+L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectador a més de contemplar les imatges, hi està envoltat. D'aquesta manera es transforma la percepció tradicional de l’art visual i genera una experiència sensorial basada en el programari.
 
 ---
 
