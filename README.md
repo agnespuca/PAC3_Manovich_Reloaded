@@ -21,11 +21,13 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 ---
 
 ## Introducció
+
 En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari en la cultura digital que no apareixen en el llibre de Lev Manovich ("Software Takes Command", 2013). La selecció dels casos parteix de la premissa que el programari és una eina de producció que determina la forma de la creació cultural i artística. Els exemples escollits combinen tecnologia, interactivitat i participació col·laborativa, incorporant principis de crowdsourcing i cultura oberta.
 
 ---
 
 ## Cas 1: Refik Anadol – Machine Hallucinations (2019)
+
 ![Machine Hallucinations – Instal·lació immersiva](anadol_machine_hallucinations.jpg)
 
 *Fig. 1. Refik Anadol, Machine Hallucinations (2019). Font: Refik Anadol Studio.*
@@ -63,6 +65,7 @@ L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectad
 ---
 
 ## Cas 2: AI Dungeon – Narrativa generativa interactiva (2019 – present)
+
 ![AI Dungeon – Interfície de narrativa generativa](ai_dungeon_interface.jpg)
 
 *Fig. 2. Captura de la interfície d’AI Dungeon, on la narrativa és generada dinàmicament per IA a partir de les accions de l’usuari. Font: captura pròpia.*
@@ -95,11 +98,15 @@ Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritme
 - [Latitude (estudi desenvolupador)](https://latitude.io/)
 
 ---
+
 ## Conclusió
 
 Els casos de *Machine Hallucinations* (Refik Anadol) i *AI Dungeon* exemplifiquen dos models complementaris d’hibridació multimèdia basats en la intel·ligència artificial: el primer transforma dades massives en experiència audiovisual immersiva dins l’espai expositiu, mentre que el segon converteix la IA en agent narratiu interactiu dins l’àmbit del videojoc i la literatura digital. Ambdós projectes qüestionen els límits tradicionals entre autor, eina i obra, i evidencien com la tecnologia esdevé un element actiu en la construcció de nous llenguatges artístics i narratius.
 
+---
+
 ## Ús d'eines d’intel·ligencia artificial
+
 En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text a nivell gramatical. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, a nivell personal, basant-se en la bibliografia i en els casos d’estudi. Aquest ús reflecteix el mateix principi d’**hibridació entre usuari i programari** que s’analitza en els casos seleccionats.
 
 ---
