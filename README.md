@@ -15,7 +15,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
 - [Cas 2: AI Dungeon - Narrativa generativa interactiva 2019-present](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019-present)
   - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
-- [Ús d'eines d'intel·ligència artificial](#us-d-eines-dintel-ligencia-artificial)
+- [Ús d'eines d'intel·ligència artificial](#us-deines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
 ---
@@ -38,13 +38,13 @@ En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari e
   - [Vídeo explicatiu de Machine Hallucinations](https://youtu.be/x1EVhNM-uf4?si=AYFxVaT7Saovp-4j)
 
 ### Descripció analítica
-Machine Hallucinations és un projecte d’art digital en què Refik Anadol utilitza algoritmes d’intel·ligència artificial per processar milions d’imatges procedents d’arxius públics i crear visualitzacions immersives. L’obra és un clar exemple de **hibridació de programari**, ja que la creació artística depèn tant de la intervenció manual de l’artista com de l’aplicació de models de machine learning que generen contingut visual original a partir de dades massives.  
+Machine Hallucinations és un projecte d’art digital en què Refik Anadol utilitza algoritmes d’intel·ligència artificial per processar milions d’imatges procedents d’arxius públics i crear visualitzacions immersives. L’obra és un clar exemple d'**hibridació de programari**, ja que la creació artística depèn tant de la intervenció manual de l’artista com de l’aplicació de models de machine learning que generen contingut visual original a partir de dades massives.  
 
 Segons Manovich (2013), el software actua com a medi i agent de transformació cultural; Anadol porta aquest concepte a un nou nivell: el programari és **protagonista creatiu**, mentre que l’artista supervisa, selecciona i configura els paràmetres. Això reflecteix la transició cap a un entorn de **programmed media**, on les imatges ja no són codificades manualment, sinó produïdes de manera algorítmica.  
 
-A més, moltes de les dades utilitzades provenen en part d’arxius oberts i col·leccions digitals accessibles, integrant així un aspecte de **crowdsourcing i cultura oberta**, ja que els usuaris poden contribuir amb contingut que alimenta les visualitzacions generatives. Aquest fenomen és una extensió del concepte de Manovich sobre bases de dades i interfícies, adaptat a l’era de l’IA i del big data.
+A més, moltes de les dades utilitzades provenen en part d’arxius oberts i col·leccions digitals accessibles, integrant així un aspecte de **crowdsourcing i cultura oberta**, ja que els usuaris poden contribuir amb contingut que alimenta les visualitzacions generatives. Aquest fenomen és una extensió del concepte de Manovich sobre bases de dades i interfícies, adaptat a l’era de la IA i del big data.
 
-L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectador a més de contemplar les imatges, hi està envoltat. D'aquesta manera es transforma la percepció tradicional de l’art visual i genera una experiència sensorial basada en el programari.
+L’obra també exemplifica la **interactivitat immersiva**, pel fet que l’espectador a més de contemplar les imatges, hi està envoltat. D'aquesta manera es transforma la percepció tradicional de l’art visual i genera una experiència sensorial basada en el programari.
 
 ---
 
