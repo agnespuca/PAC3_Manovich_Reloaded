@@ -15,7 +15,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 - [Cas 2: AI Dungeon – *Narrativa generativa interactiva* (2019 – present)](#cas-2-ai-dungeon--narrativa-generativa-interactiva-2019--present)
 - [Recursos multimèdia](#recursos-multimèdia)
 - [Bibliografia](#bibliografia)
-
+- [Ús d’eines d’intel·ligència artificial](#Ús-d’eines-d’intel·ligència-artificial)
 ## Introducció
 En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari en la cultura digital que no apareixen en el llibre de Lev Manovich ("Software Takes Command", 2013). La selecció dels casos parteix de la premissa que el programari és una eina de producció que determina la forma de la creació cultural i artística. Els exemples escollits combinen tecnologia, interactivitat i participació col·laborativa, incorporant principis de crowdsourcing i cultura oberta.
 
@@ -162,3 +162,7 @@ Manovich, L. (2013). *Software takes command*. Bloomsbury Academic.
 
 McMillan, R. (2012). *Lord of the files: How GitHub tamed free software (and more)*. Wired.  
 https://www.wired.com/2012/02/github/
+
+## Ús d’eines d’intel·ligència artificial
+
+En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text a nivell gramatical. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, a nivell personal i basant-se en la bibliografia treballada a l'assignatura
