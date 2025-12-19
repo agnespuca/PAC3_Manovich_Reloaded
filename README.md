@@ -14,7 +14,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 - [Cas 1: Refik Anadol - Machine Hallucinations 2019](#cas-1-refik-anadol---machine-hallucinations-2019)
   - [Recursos Cas 1](#recursos-cas-1)
 - [Cas 2: AI Dungeon - Narrativa generativa interactiva 2019-present](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019-present)
-  - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
+  - [Recursos Cas 2](#recursos-cas-2)
 - [Ús d'eines d'intel·ligència artificial](#us-de-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
@@ -85,7 +85,7 @@ Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritme
 
 ---
 
-## Recursos multimedia Cas 2
+## Recursos Cas 2
 
 - [AI Dungeon – Official Trailer / Overview](https://www.youtube.com/watch?v=wUrwTYjFEmw)  
 - [How AI Dungeon Works](https://www.youtube.com/watch?v=uNT0MTYW1MI)  
