@@ -15,7 +15,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
 - [Cas 2: AI Dungeon - Narrativa generativa interactiva 2019-present](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019-present)
   - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
-- [Ús d'eines d'intel·ligència artificial](#us-de-eines-dintel-ligencia-artificial)
+- [Ús d'eines d'intel·ligència artificial](#us-d-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
 ---
