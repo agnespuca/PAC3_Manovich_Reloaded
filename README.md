@@ -15,7 +15,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
 - [Cas 2: AI Dungeon – Narrativa generativa interactiva (2019 – present)](#cas-2-ai-dungeon-narrativa-generativa-interactiva-2019-present)
   - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
-- [Ús de eines d’intel·ligencia artificial](#ús-de-eines-dintel-ligencia-artificial)
+- [Ús de eines d’intel·ligencia artificial](#ús-d-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
 ---
@@ -43,9 +43,6 @@ Segons Manovich (2013), el software actua com a medi i agent de transformació c
 A més, moltes de les dades utilitzades provenen en part d’arxius oberts i col·leccions digitals accessibles, integrant així un aspecte de **crowdsourcing i cultura oberta**, ja que els usuaris poden contribuir amb contingut que alimenta les visualitzacions generatives. Aquest fenomen és una extensió del concepte de Manovich sobre bases de dades i interfícies, adaptat a l’era de l’IA i del big data.
 
 L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectador a més de contemplar les imatges, hi està envoltat. D'aquesta manera es transforma la percepció tradicional de l’art visual i genera una experiència sensorial basada en el programari.
-
-### Us de la intel·ligencia artificial
-En Machine Hallucinations, la IA actua com a **motor central del procés creatiu**, entrenant xarxes neuronals amb grans conjunts de dades visuals i generant noves imatges que no existien prèviament. L’artista defineix regles i paràmetres, supervisant els resultats, mentre el programari interpreta i transforma les dades en experiència estètica. Això exemplifica la **hibridació entre programari i creació artística**, tal com descriu Manovich.
 
 ---
 
@@ -80,9 +77,6 @@ AI Dungeon és un joc narratiu on els continguts textuals són generats per un m
 
 Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritmes**, amb narrativa **procedural i infinita**, aplicada a l’era de la IA generativa. La comunitat contribueix amb escenaris i prompts, afegint un component de **crowdsourcing i evolució constant del contingut**.
 
-### Us de la intel·ligencia artificial
-L’IA interpreta les accions del jugador i genera continuacions narratives coherents i imprevisibles, assumint una funció creativa abans reservada a l’autor humà. Així, AI Dungeon exemplifica la **co-creació entre usuari i programari**, ampliant les possibilitats de la narrativa digital i reflectint la hibridació que analitza Manovich.
-
 ---
 
 ## Recursos multimedia Cas 2
@@ -101,8 +95,11 @@ L’IA interpreta les accions del jugador i genera continuacions narratives cohe
 - [Latitude (estudi desenvolupador)](https://latitude.io/)
 
 ---
+## Conclusió
 
-## Ús de eines d’intel·ligencia artificial
+Els casos de *Machine Hallucinations* (Refik Anadol) i *AI Dungeon* exemplifiquen dos models complementaris d’hibridació multimèdia basats en la intel·ligència artificial: el primer transforma dades massives en experiència audiovisual immersiva dins l’espai expositiu, mentre que el segon converteix la IA en agent narratiu interactiu dins l’àmbit del videojoc i la literatura digital. Ambdós projectes qüestionen els límits tradicionals entre autor, eina i obra, i evidencien com la tecnologia esdevé un element actiu en la construcció de nous llenguatges artístics i narratius.
+
+## Ús d'eines d’intel·ligencia artificial
 En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text a nivell gramatical. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, a nivell personal, basant-se en la bibliografia i en els casos d’estudi. Aquest ús reflecteix el mateix principi d’**hibridació entre usuari i programari** que s’analitza en els casos seleccionats.
 
 ---
