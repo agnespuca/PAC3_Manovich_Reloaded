@@ -15,6 +15,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
   - [Recursos Cas 1](#recursos-cas-1)
 - [Cas 2: AI Dungeon - Narrativa generativa interactiva 2019-present](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019-present)
   - [Recursos Cas 2](#recursos-cas-2)
+- [Conclusió](#conclusio)
 - [Ús d'eines d'intel·ligència artificial](#us-de-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
@@ -98,6 +99,13 @@ Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritme
 - [AI Dungeon – Plataforma interactiva](https://play.aidungeon.com/)  
 - [AI Dungeon – Steam](https://store.steampowered.com/app/518060/AI_Dungeon/)  
 - [Latitude (estudi desenvolupador)](https://latitude.io/)
+
+---
+<!-- Conclusió -->
+<a id="conclusio"></a>
+## Conclusió
+
+Els casos de *Machine Hallucinations* (Refik Anadol) i *AI Dungeon* exemplifiquen dos models complementaris d’hibridació multimèdia basats en la intel·ligència artificial: el primer transforma dades massives en experiència audiovisual immersiva dins l’espai expositiu, mentre que el segon converteix la IA en agent narratiu interactiu dins l’àmbit del videojoc i la literatura digital. Ambdós projectes qüestionen els límits tradicionals entre autor, eina i obra, i evidencien com la tecnologia esdevé un element actiu en la construcció de nous llenguatges artístics i narratius.
 
 ---
 
