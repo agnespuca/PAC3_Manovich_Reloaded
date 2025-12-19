@@ -54,14 +54,20 @@ L’obra també exemplifica la **interactivitat immersiva**, pel fet que l’esp
 
 ## Recursos Cas 1
 
+### Vídeos
+
 - [Machine Hallucination – Project Overview](https://www.youtube.com/watch?v=x1EVhNM-uf4)  
 - [Machine Hallucination | Behind the Scenes](https://www.youtube.com/watch?v=1MJCohk3-04)  
 - [Artist Insight: Refik Anadol](https://www.youtube.com/watch?v=8et1aGdI0HU)  
 - [Refik Anadol – Unsupervised (MoMA)](https://www.youtube.com/watch?v=5Y384U-bOJo)  
 
+### Galeries d’imatges d’Art digital
+
 - [Web oficial – Machine Hallucination: NYC](https://refikanadol.com/works/machine-hallucination-nyc/)  
 - [ARTECHOUSE – Exposició immersiva](https://www.artechouse.com/program/machine-hallucination-nyc/)  
 - [Machine Hallucinations – Nature Dreams](https://refikanadol.com/works/machine-hallucinations-nature-dreams/)  
+
+### Enllaços a demos interactives i plataformes de joc
 
 - [Refik Anadol Studio – Projectes i experiments visuals](https://refikanadol.com/works/)  
 - [Machine Hallucinations – Space : Metaverse (Sotheby’s)](https://www.sothebys.com/en/digital-catalogues/machine-hallucinations-space-metaverse)
