@@ -20,7 +20,10 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 
 ---
 
-## Introduccio
+<!-- Introducció -->
+<a id="introduccio"></a>
+## Introducció
+
 
 En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari en la cultura digital que no apareixen en el llibre de Lev Manovich ("Software Takes Command", 2013). La selecció dels casos parteix de la premissa que el programari és una eina de producció que determina la forma de la creació cultural i artística. Els exemples escollits combinen tecnologia, interactivitat i participació col·laborativa, incorporant principis de crowdsourcing i cultura oberta.
 
