@@ -10,12 +10,15 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 
 ## Índex
 
-- [Introducció](#introducció)
-- [Cas 1: Refik Anadol – *Machine Hallucinations* (2019)](#cas-1-refik-anadol--machine-hallucinations-2019)
-- [Cas 2: AI Dungeon – *Narrativa generativa interactiva* (2019 – present)](#cas-2-ai-dungeon--narrativa-generativa-interactiva-2019--present)
-- [Recursos multimèdia](#recursos-multimèdia)
+- [Introducció](#introduccio)
+- [Cas 1: Refik Anadol – Machine Hallucinations (2019)](#cas-1-refik-anadol--machine-hallucinations-2019)
+  - [Recursos multimèdia Cas 1](#recursos-multimedia-cas-1)
+- [Cas 2: AI Dungeon – Narrativa generativa interactiva (2019 – present)](#cas-2-ai-dungeon--narrativa-generativa-interactiva-2019--present)
+  - [Recursos multimèdia Cas 2](#recursos-multimedia-cas-2)
+- [Ús d’eines d’intel·ligència artificial](#us-de-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
-- [Ús d’eines d’intel·ligència artificial](#Ús-d’eines-d’intel·ligència-artificial)
+
+  
 ## Introducció
 En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari en la cultura digital que no apareixen en el llibre de Lev Manovich ("Software Takes Command", 2013). La selecció dels casos parteix de la premissa que el programari és una eina de producció que determina la forma de la creació cultural i artística. Els exemples escollits combinen tecnologia, interactivitat i participació col·laborativa, incorporant principis de crowdsourcing i cultura oberta.
 
@@ -37,6 +40,46 @@ Segons Manovich (2013), el software actua com a medi i agent de transformació c
 A més, moltes de les dades utilitzades provenen en part d’arxius oberts i coleccions digitals accessibles, integrant així un aspecte de **crowdsourcing i cultura oberta**, ja que els usuaris poden contribuir amb contingut que alimenta les visualitzacions generatives. Aquest fenomen és una extensió del concepte de Manovich sobre bases de dades i interfícies, adaptat a l’era de l’IA i del big data.
 
 L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectador a més de contemplar les imatges, hi està envoltat. D'aquesta manera es transforma la percepció tradicional de l’art visual i genera una experiència sensorial basada en el programari.
+
+---
+## Recursos multimèdia Cas 1
+
+### Vídeos explicatius dels projectes
+
+- Machine Hallucination – Project Overview  
+  https://www.youtube.com/watch?v=x1EVhNM-uf4
+
+- Machine Hallucination | Behind the Scenes  
+  https://www.youtube.com/watch?v=1MJCohk3-04
+
+- Artist Insight: Refik Anadol  
+  https://www.youtube.com/watch?v=8et1aGdI0HU
+
+- Refik Anadol – *Unsupervised* (MoMA)  
+  https://www.youtube.com/watch?v=5Y384U-bOJo
+
+---
+
+### Galeries d’imatges d’art digital
+
+- Web oficial – *Machine Hallucination: NYC*  
+  https://refikanadol.com/works/machine-hallucination-nyc/
+
+- ARTECHOUSE – Exposició immersiva  
+  https://www.artechouse.com/program/machine-hallucination-nyc/
+
+- *Machine Hallucinations – Nature Dreams*  
+  https://refikanadol.com/works/machine-hallucinations-nature-dreams/
+
+---
+
+### Demos interactives i plataformes de joc
+
+- Refik Anadol Studio – Projectes i experiments visuals  
+  https://refikanadol.com/works/
+
+- *Machine Hallucinations – Space : Metaverse* (Sotheby’s)  
+  https://www.sothebys.com/en/digital-catalogues/machine-hallucinations-space-metaverse
 
 ---
 
@@ -62,26 +105,9 @@ Finalment, AI Dungeon representa un nou format de publicació i entreteniment qu
 
 ---
 
-## Recursos multimèdia
+## Recursos multimèdia Cas 2
 
 ### Vídeos explicatius dels projectes
-
-#### Cas 1 · Refik Anadol – *Machine Hallucinations* (2019)
-
-- Machine Hallucination – Project Overview  
-  https://www.youtube.com/watch?v=x1EVhNM-uf4
-
-- Machine Hallucination | Behind the Scenes  
-  https://www.youtube.com/watch?v=1MJCohk3-04
-
-- Artist Insight: Refik Anadol  
-  https://www.youtube.com/watch?v=8et1aGdI0HU
-
-- Refik Anadol – *Unsupervised* (MoMA)  
-  https://www.youtube.com/watch?v=5Y384U-bOJo
-
-
-#### Cas 2 · AI Dungeon – *Narrativa generativa interactiva* (2019 – present)
 
 - AI Dungeon – Official Trailer / Overview  
 https://www.youtube.com/watch?v=wUrwTYjFEmw
@@ -94,23 +120,10 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
 
 - AI Dungeon and the Future of Interactive Storytelling  
   https://www.youtube.com/watch?v=UrBnqHa-Khg
+  
 ---
 
 ### Galeries d’imatges d’art digital
-
-#### Cas 1 · Refik Anadol
-
-- Web oficial – *Machine Hallucination: NYC*  
-  https://refikanadol.com/works/machine-hallucination-nyc/
-
-- ARTECHOUSE – Exposició immersiva  
-  https://www.artechouse.com/program/machine-hallucination-nyc/
-
-- *Machine Hallucinations – Nature Dreams*  
-  https://refikanadol.com/works/machine-hallucinations-nature-dreams/
-
-
-#### Cas 2 · AI Dungeon
 
 - Web oficial – AI Dungeon  
   https://aidungeon.com/
@@ -125,17 +138,6 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
 
 ### Demos interactives i plataformes de joc
 
-#### Cas 1 · Art generatiu i entorns digitals
-
-- Refik Anadol Studio – Projectes i experiments visuals  
-  https://refikanadol.com/works/
-
-- *Machine Hallucinations – Space : Metaverse* (Sotheby’s)  
-  https://www.sothebys.com/en/digital-catalogues/machine-hallucinations-space-metaverse
-
-
-#### Cas 2 · Narrativa interactiva generativa
-
 - AI Dungeon – Plataforma interactiva  
   https://play.aidungeon.com/
 
@@ -148,6 +150,10 @@ https://www.youtube.com/watch?v=wUrwTYjFEmw
 ---
 
 Els casos de *Machine Hallucinations* (Refik Anadol) i *AI Dungeon* exemplifiquen dos models complementaris d’hibridació multimèdia basats en la intel·ligència artificial: el primer transforma dades massives en experiència audiovisual immersiva dins l’espai expositiu, mentre que el segon converteix la IA en agent narratiu interactiu dins l’àmbit del videojoc i la literatura digital. Ambdós projectes qüestionen els límits tradicionals entre autor, eina i obra, i evidencien com la tecnologia esdevé un element actiu en la construcció de nous llenguatges artístics i narratius.
+
+## Ús d’eines d’intel·ligència artificial
+
+En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text a nivell gramatical. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, a nivell personal i basant-se en la bibliografia treballada a l'assignatura
 
 ## Bibliografia
 
@@ -162,7 +168,3 @@ Manovich, L. (2013). *Software takes command*. Bloomsbury Academic.
 
 McMillan, R. (2012). *Lord of the files: How GitHub tamed free software (and more)*. Wired.  
 https://www.wired.com/2012/02/github/
-
-## Ús d’eines d’intel·ligència artificial
-
-En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text a nivell gramatical. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, a nivell personal i basant-se en la bibliografia treballada a l'assignatura
