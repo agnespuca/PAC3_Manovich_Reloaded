@@ -95,6 +95,8 @@ Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritme
 - [Absolute Beginner’s Guide To AI Dungeon](https://www.youtube.com/watch?v=J0nxtUYsX7U)  
 - [AI Dungeon and the Future of Interactive Storytelling](https://www.youtube.com/watch?v=UrBnqHa-Khg)  
 
+### Enllaços a demos interactives i plataformes de joc
+
 - [Web oficial – AI Dungeon](https://aidungeon.com/)  
 - [AI Dungeon – Plataforma interactiva](https://play.aidungeon.com/)  
 - [AI Dungeon – Steam](https://store.steampowered.com/app/518060/AI_Dungeon/)  
