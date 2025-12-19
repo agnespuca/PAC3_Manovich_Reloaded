@@ -10,8 +10,6 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 
 ## Índex
 
-## Índex
-
 - [Introduccio](#introduccio)
 - [Cas 1: Refik Anadol – Machine Hallucinations (2019)](#cas-1-refik-anadol-machine-hallucinations-2019)
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
