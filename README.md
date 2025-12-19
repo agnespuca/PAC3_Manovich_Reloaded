@@ -15,7 +15,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
 - [Cas 2: AI Dungeon - Narrativa generativa interactiva 2019-present](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019-present)
   - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
-- [Ús de la IA](#us-de-la-ia)
+- [Ús d'eines d'intel·ligència artificial](#us-de-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
 ---
@@ -101,7 +101,9 @@ Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritme
 
 ---
 
-## Ús de la IA
+<!-- Ús d'eines d'IA -->
+<a id="us-de-eines-dintel-ligencia-artificial"></a>
+## Ús d'eines d’intel·ligència artificial
 
 En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text gramaticalment. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, basant-se en la bibliografia i en els casos estudiats.
 
