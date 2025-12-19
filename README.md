@@ -10,17 +10,17 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 
 ## Index
 
-- [Introduccio](#introduccio)
+- [Introducció](#Introducció)
 - [Cas 1: Refik Anadol – Machine Hallucinations (2019)](#cas-1-refik-anadol-machine-hallucinations-2019)
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
 - [Cas 2: AI Dungeon – Narrativa generativa interactiva (2019 – present)](#cas-2-ai-dungeon-narrativa-generativa-interactiva-2019-present)
   - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
-- [Us de eines d’intel·ligencia artificial](#us-de-eines-dintel-ligencia-artificial)
+- [Ús de eines d’intel·ligencia artificial](#ús-de-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
 ---
 
-## Introduccio
+## Introducció
 En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari en la cultura digital que no apareixen en el llibre de Lev Manovich ("Software Takes Command", 2013). La selecció dels casos parteix de la premissa que el programari és una eina de producció que determina la forma de la creació cultural i artística. Els exemples escollits combinen tecnologia, interactivitat i participació col·laborativa, incorporant principis de crowdsourcing i cultura oberta.
 
 ---
@@ -102,7 +102,7 @@ L’IA interpreta les accions del jugador i genera continuacions narratives cohe
 
 ---
 
-## Us de eines d’intel·ligencia artificial
+## Ús de eines d’intel·ligencia artificial
 En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text a nivell gramatical. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, a nivell personal, basant-se en la bibliografia i en els casos d’estudi. Aquest ús reflecteix el mateix principi d’**hibridació entre usuari i programari** que s’analitza en els casos seleccionats.
 
 ---
