@@ -76,9 +76,9 @@ L’obra també exemplifica la **interactivitat immersiva**, pel fet que l’esp
   - [Vídeo explicatiu del funcionament de AI Dungeon](https://www.youtube.com/watch?v=uNT0MTYW1MI)
 
 ### Descripció analítica
-AI Dungeon és un joc narratiu on els continguts textuals són generats per un model d’IA. L’usuari introdueix accions, i el programari crea respostes narratives en temps real. Això exemplifica una **hibridació de programari i cultura**, amb co-creació entre IA i jugador.  
+AI Dungeon és un joc narratiu on els continguts textuals són generats per un model d’IA. L’usuari introdueix accions, i el programari crea respostes narratives en temps real. Això exemplifica una **hibridació de programari i cultura**, amb cocreació entre IA i jugador.  
 
-Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritmes**, amb narrativa **procedural i infinita**, aplicada a l’era de la IA generativa. La comunitat contribueix amb escenaris i prompts, afegint un component de **crowdsourcing i evolució constant del contingut**.
+Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritmes**, amb narrativa **procedimental i infinita**, aplicada a l’era de la IA generativa. La comunitat contribueix amb escenaris i prompts, afegint un component de **crowdsourcing i evolució constant del contingut**.
 
 ---
 
