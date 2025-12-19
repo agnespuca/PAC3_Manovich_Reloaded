@@ -41,6 +41,10 @@ L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectad
 ---
 
 ## Cas 2: AI Dungeon – *Narrativa generativa interactiva* (2019 – present)
+![AI Dungeon – Interfície de narrativa generativa](ai_dungeon_interface.jpg)
+
+*Fig. 3. Captura de la interfície d’AI Dungeon, on la narrativa és generada dinàmicament per intel·ligència artificial a partir de les accions de l’usuari. Font: captura pròpia.*
+
 - **Àmbit:** Entreteniment / Jocs / Narrativa interactiva  
 - **Enllaços:** 
   - [AI Dungeon – Web oficial](https://play.aidungeon.io/)
