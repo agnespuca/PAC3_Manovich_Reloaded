@@ -8,14 +8,14 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 - Curs: 2025/2026
 - Assignatura: cultura digital
 
-## Index
+## Índex
 
 - [Introducció](#introduccio)
-- [Cas 1: Refik Anadol - Machine Hallucinations (2019)](#cas-1-refik-anadol---machine-hallucinations-2019)
+- [Cas 1: Refik Anadol - Machine Hallucinations 2019](#cas-1-refik-anadol---machine-hallucinations-2019)
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
-- [Cas 2: AI Dungeon - Narrativa generativa interactiva (2019 - present)](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019---present)
+- [Cas 2: AI Dungeon - Narrativa generativa interactiva 2019-present](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019-present)
   - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
-- [Ús d'eines d'intel·ligencia artificial](#us-de-eines-dintel-ligencia-artificial)
+- [Ús d'eines d'intel·ligència artificial](#us-de-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
 ---
@@ -26,7 +26,7 @@ En aquesta pràctica s'analitzen dos casos recents d'hibridació de programari e
 
 ---
 
-## Cas 1: Refik Anadol – Machine Hallucinations (2019)
+## Cas 1: Refik Anadol - Machine Hallucinations 2019
 
 ![Machine Hallucinations – Instal·lació immersiva](anadol_machine_hallucinations.jpg)
 
@@ -64,7 +64,7 @@ L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectad
 
 ---
 
-## Cas 2: AI Dungeon – Narrativa generativa interactiva (2019 – present)
+## Cas 2: AI Dungeon - Narrativa generativa interactiva 2019-present
 
 ![AI Dungeon – Interfície de narrativa generativa](ai_dungeon_interface.jpg)
 
@@ -73,7 +73,7 @@ L’obra també exemplifica la **interactivitat immersiva**, ja que l’espectad
 - **Àmbit:** Entreteniment / Jocs / Narrativa interactiva  
 - **Enllaços:** 
   - [AI Dungeon – Web oficial](https://play.aidungeon.io/)
-  - [Video explicatiu del funcionament de AI Dungeon](https://www.youtube.com/watch?v=uNT0MTYW1MI)
+  - [Vídeo explicatiu del funcionament de AI Dungeon](https://www.youtube.com/watch?v=uNT0MTYW1MI)
 
 ### Descripció analítica
 AI Dungeon és un joc narratiu on els continguts textuals són generats per un model d’IA. L’usuari introdueix accions, i el programari crea respostes narratives en temps real. Això exemplifica una **hibridació de programari i cultura**, amb co-creació entre IA i jugador.  
@@ -98,13 +98,7 @@ Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritme
 
 ---
 
-## Conclusió
-
-Els casos de *Machine Hallucinations* (Refik Anadol) i *AI Dungeon* exemplifiquen dos models complementaris d’hibridació multimèdia basats en la intel·ligència artificial: el primer transforma dades massives en experiència audiovisual immersiva dins l’espai expositiu, mentre que el segon converteix la IA en agent narratiu interactiu dins l’àmbit del videojoc i la literatura digital. Ambdós projectes qüestionen els límits tradicionals entre autor, eina i obra, i evidencien com la tecnologia esdevé un element actiu en la construcció de nous llenguatges artístics i narratius.
-
----
-
-## Ús d'eines d’intel·ligencia artificial
+## Ús d'eines d'intel·ligència artificial
 
 En el desenvolupament d'aquesta PAC s'ha fet servir la intel·ligència artificial com a eina de suport per ordenar idees i revisar el text a nivell gramatical. Les reflexions, anàlisis i interpretacions han estat elaborades per l'autor, a nivell personal, basant-se en la bibliografia i en els casos d’estudi. Aquest ús reflecteix el mateix principi d’**hibridació entre usuari i programari** que s’analitza en els casos seleccionats.
 
