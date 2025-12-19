@@ -6,7 +6,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
 - Cognoms: Puiggrós Casals
 - Correu: apuiggrosca@uoc.edu
 - Curs: 2025/2026
-- Assignatura: cultura digital
+- Assignatura: Cultura Digital
 
 ## Índex
 
