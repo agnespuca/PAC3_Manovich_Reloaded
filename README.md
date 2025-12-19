@@ -15,7 +15,7 @@ Assaig PAC3 - Manovich Reloaded: dos casos d’hibridació contemporània
   - [Recursos multimedia Cas 1](#recursos-multimedia-cas-1)
 - [Cas 2: AI Dungeon - Narrativa generativa interactiva (2019 - present)](#cas-2-ai-dungeon---narrativa-generativa-interactiva-2019---present)
   - [Recursos multimedia Cas 2](#recursos-multimedia-cas-2)
-- [Us d'eines d'intel·ligencia artificial](#us-de-eines-dintel-ligencia-artificial)
+- [Ús d'eines d'intel·ligencia artificial](#us-de-eines-dintel-ligencia-artificial)
 - [Bibliografia](#bibliografia)
 
 ---
@@ -90,7 +90,6 @@ Segons Manovich, el joc mostra la interacció entre **bases de dades i algoritme
 - [AI Dungeon and the Future of Interactive Storytelling](https://www.youtube.com/watch?v=UrBnqHa-Khg)  
 
 - [Web oficial – AI Dungeon](https://aidungeon.com/)  
-- [Galeria de captures – Steam](https://store.steampowered.com/app/518060/AI_Dungeon/)  
 - [Exemples de partides i captures de la comunitat](https://play.aidungeon.com/)  
 
 - [AI Dungeon – Plataforma interactiva](https://play.aidungeon.com/)  
